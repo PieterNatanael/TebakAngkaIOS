@@ -1,6 +1,6 @@
 # TebakAngkaIOS
 
-TebakAngka adalah sebuah aplikasi iOS permainan menebak angka. Tantang diri Anda sendiri untuk menebak angka rahasia antara 1 dan 100. Bisakah Anda menebaknya?
+TebakAngka adalah sebuah game sederhana di aplikasi iOS berupa permainan menebak angka. Tantang diri Anda sendiri untuk menebak angka rahasia antara 1 dan 100. Bisakah Anda menebaknya?
 
 Technology Stack:
 * 		Swift programming language: The core programming language used to develop applications for various Apple platforms.
